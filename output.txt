@@ -1,0 +1,6 @@
+Total pixels here are = 722 x 1364 = 984808 and total area of image is 65km x 65km = 4225squarekm
+So, area of pixel is = total area / number of pixels
+Forest loss is : 80828 pixels
+Forest spread is : 57056 pixels
+Total forest increasement or decreasement is: -23772 pixels
+So, In Squarekm  loss is 346.77, spread is 244.78, total is -101.99
